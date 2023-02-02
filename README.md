@@ -1,6 +1,10 @@
 # DSI-course-materials
 All course materials for the statistical learning section of the introductory data science course coming soon to the University of Toronto's Data Science Institute.
 
+This course is adapted from *An Introduction to Statistical Learning: with Applications in R* by James, Gareth, et al. (2021).
+
+Author: Simone Collier (contact: simonekcollier@gmail.com)
+
 ## Statistical Learning Modules
 
 This repo is divided into 11 modules, each containing lecture slides, lesson plans, and exercises in R. The list below provides an overview for what is covered in each module.
